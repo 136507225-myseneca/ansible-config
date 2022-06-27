@@ -1,4 +1,7 @@
 # ansible-config
+test 1
+
+
 ansible_ssh_private_key_file=/home/ubuntu/.ssh/devops
 
 eval `ssh-agent -s`
